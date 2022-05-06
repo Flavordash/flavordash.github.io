@@ -17,27 +17,27 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p> React, NextJS, </p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Material UI design, Styled Component, Ant Design</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p> Familiar with JavaScript, HTML and CSS3</p>
           </li>
+         
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>1. Always make the Container Flexible
+              <br/>
+              2.Make My Own Image Right Away
+              <br/>
+              3. Using Redux, Redux-Saga for the Stable Components Management
+            </p>
+            
+            
           </li>
           
         </ul>
@@ -51,28 +51,13 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>ERC20, ERC721 Smart-Contract</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Web3, Hardhat</p>
           </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
-          </li>
+     
           
         </ul>
         </article>
@@ -85,28 +70,33 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Adobe Premiere Pro</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Adobe Illustrator</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Adobe Photoshop</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Visual Studio</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Logic Pro X</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis libero necessitatibus inventore minus doloribus, consectetur tempora nam similique dolor repudiandae saepe perspiciatis in expedita numquam eum sit vitae explicabo quidem?</p>
+            <p>Final Cut Pro</p>
           </li>
+          <li>
+            <AiOutlineCheckCircle className='service__list-icon' />
+            <p>Adobe AfterEffects</p>
+          </li>
+         
           
         </ul>
         </article>

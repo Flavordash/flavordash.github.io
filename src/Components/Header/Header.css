@@ -9,6 +9,11 @@ header {
     height: 100%;
     position: relative;
 }
+
+.header__container h1 {
+    color: rgb(97, 74, 119);
+    font-size: 2rem;
+}
 /* CTA */
 .cta {
     margin-top: 2.5rem;
@@ -39,13 +44,13 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
+    width: 50rem;
     height: 30rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 25rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    
+    padding: 4rem 1.5rem 1.5rem 1.5rem;
 }
 
 /*------------------------ 스크롤다운 ==================*/
@@ -54,9 +59,9 @@ header {
     position: absolute;
     right: -2.3rem;
     bottom: 5rem;
-    transform: rotate(90deg);
+    transform: rotate(0);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 2.5rem;
 }
 
 /*              중간 미디어 쿼리                      */

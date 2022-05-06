@@ -1,22 +1,24 @@
 import React from 'react'
 import './Header.css'
 import CTA from './CTA'
-import ME from '../../assets/ME.png'
+import ME from '../../assets/megif.gif'
 import HeaderSocial from './HeaderSocial'
+import {AiOutlineDownCircle} from 'react-icons/ai'
 
 const Header = () => {
   return (
     <header>
         <div className="container header__container">
-            <h5>Hello Im</h5>
+            <h5>Hello I am</h5>
             <h1>KWANHOON LEE</h1>
             <h5 className="text-light">Beginner Developer</h5>
             <CTA />
             <HeaderSocial/>
             <div className="me">
               <img src={ME} alt="me" />
+              <h5>This is me With the NFTs i bought</h5>
             </div>
-            <a href="#Contact" className='scroll__down'> Scroll Down </a>
+            <a href="#contact" className='scroll__down'> <AiOutlineDownCircle /> </a>
         </div>
     </header>
   )

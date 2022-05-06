@@ -52,10 +52,24 @@ input, textarea {
     color: var(--color-white);
 }
 
+.scroll__up{
+    font-size: 2.5rem;
+    position: absolute;
+    right: 5rem;
+    
+}
+
+
+
 @media screen and (max-width:1024px) {
  .contact__container {
      grid-template-columns: 1fr;
      gap: 2rem;
+ }
+ .scroll__up{
+     display: grid;
+     position: absolute;
+     grid-template-columns: auto;
  }
 }
 /*              작은 미디어 쿼리                      */

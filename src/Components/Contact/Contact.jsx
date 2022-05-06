@@ -2,6 +2,7 @@ import React from 'react'
 import './Contact.css'
 import {MdOutlineAttachEmail} from 'react-icons/md'
 import {RiKakaoTalkFill} from 'react-icons/ri'
+import {AiOutlineUpCircle} from 'react-icons/ai'
 import {SiNaver} from 'react-icons/si'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
@@ -49,7 +50,9 @@ const Contact = () => {
           <input type="email" placeholder='Your Email' required/>
           <textarea name="message"rows="7" placeholder='Your Message'></textarea>
           <button type='submit' className='btn btn-primary'>Send Message</button>
+          <a href="#" className='scroll__up'> <AiOutlineUpCircle /> </a>
         </form>
+        
       </div>
     </section>
   )

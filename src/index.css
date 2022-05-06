@@ -11,12 +11,12 @@
 }
 
 :root {
- --color-bg: rgb(110, 53, 143);
- --color-bg-variant: rgb(179, 98, 211);
- --color-primary: #f4a4ff;
+ --color-bg: rgb(255, 255, 255);
+ --color-bg-variant: rgb(204, 204, 204);
+ --color-primary: #a07fec;
  --color-primary-variant: rgba(105, 32, 134, 0.6);
- --color-white: rgb(255, 255, 255);
- --color-light: rgba(255, 255, 255, 0.897);
+ --color-white: rgb(143, 143, 143);
+ --color-light: rgba(75, 75, 75, 0.897);
 
  --transition: all 400ms ease;
 
@@ -36,9 +36,9 @@ html {
 body{
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
-    color: var(--color-white);
+    color: #000;
     line-height: 1.7;
-    background-image: url(../src/assets/pattern-background-png.png);
+    background-image: url(../src/assets/pb33.png);
 }
 
 /* 기본스타일 */

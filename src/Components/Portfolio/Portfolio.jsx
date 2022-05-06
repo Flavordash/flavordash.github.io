@@ -19,7 +19,7 @@ const Portfolio = () => {
          <h3>Coin Asset Management & Information Provision Website</h3>
          <div className="portfolio__item-cta">
          <a href="https://github.com/imysh578/FrogTeam" className='btn'>Github</a>
-         <a href=" " className='btn btn-primary'>livedemo</a>
+         <a href="https://github.com/imysh578/FrogTeam/archive/refs/heads/main.zip" className='btn btn-primary'>Download</a>
          </div>
         </article>
         <article className='portfolio__item'>
@@ -39,7 +39,7 @@ const Portfolio = () => {
          <h3>WebSocket and PoW Website: Training for understanding Blockchain Mining and Transaction process</h3>
          <div className="portfolio__item-cta">
          <a href="https://github.com/Flavordash/blockchainPJ_2201" className='btn'>Github</a>
-         <a href="" className='btn btn-primary'>Live Demo</a>
+         <a href="https://github.com/Flavordash/blockchainPJ_2201/archive/refs/heads/main.zip" className='btn btn-primary'>Download</a>
          </div>
         </article>
         <article className='portfolio__item'>
