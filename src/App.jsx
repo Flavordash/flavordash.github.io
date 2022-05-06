@@ -8,7 +8,7 @@ import Header from './Components/Header/Header'
 import Nav from './Components/Nav/Nav'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Services from './Components/Services/Services'
-import Testimonials from './Components/Testimonials/Testimonials'
+
 
 const App = () => {
   return (
@@ -19,7 +19,6 @@ const App = () => {
     <Experience />
     <Services />
     <Portfolio />
-    <Testimonials />
     <Contact />
     <Footer />
    </>
