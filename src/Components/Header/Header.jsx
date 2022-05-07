@@ -16,7 +16,7 @@ const Header = () => {
             <HeaderSocial/>
             <div className="me">
               <img src={ME} alt="me" />
-              <h5>This is me With the NFTs i bought</h5>
+            
             </div>
             <a href="#contact" className='scroll__down'> <AiOutlineDownCircle /> </a>
         </div>
