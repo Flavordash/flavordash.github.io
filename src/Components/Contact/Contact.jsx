@@ -34,7 +34,7 @@ const Contact = () => {
           <article className='contact__option'>
             <RiKakaoTalkFill className='contact__option-icon' />
             <h4>Kakao Talk</h4>
-            <h5>+821047427930</h5>
+            <h5>+1-813-461-0743</h5>
             <a href="http://qr.kakao.com/talk/Q0Jq7v6woVIz3Ev7GAvRywVALhI-"> Send a message</a>
           </article>
           <article className='contact__option'>

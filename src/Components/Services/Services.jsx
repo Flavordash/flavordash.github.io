@@ -64,38 +64,28 @@ const Services = () => {
         {/* UX/UI finish */}
         <article className='service'>
         <div className='service__head'>
-        <h3>Content Creation</h3>
+        <h3>ML/ AI and Robotics</h3>
         </div>
         
         <ul className='service__list'>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Adobe Premiere Pro</p>
+            <p></p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Adobe Illustrator</p>
+            <p>a real-time object detection robot (Raspberry Pi + OpenCV) and a voice-based trading assistant (Python + Speech Recognition)
+</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Adobe Photoshop</p>
+            <p>Stock Trading Voice Assistant with RSI Alerts - Captures voice commands using the speech_recognition library. Uses gTTS (Google Text-to-Speech) to respond with auditory outputs.</p>
           </li>
           <li>
             <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Visual Studio</p>
+            <p>Lyrics Generator - Data scrap, Local LLM fine tuning</p>
           </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Logic Pro X</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Final Cut Pro</p>
-          </li>
-          <li>
-            <AiOutlineCheckCircle className='service__list-icon' />
-            <p>Adobe AfterEffects</p>
-          </li>
+        
          
           
         </ul>

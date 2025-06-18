@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 30vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -14,7 +14,7 @@ header {
     color: rgb(97, 74, 119);
     font-size: 2rem;
 }
-/* CTA */
+
 .cta {
     margin-top: 2.5rem;
     display: flex;
@@ -22,12 +22,12 @@ header {
     justify-content: center;
 }
 
-/* header social */
+
 .header__social {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.8rem;
+    gap: 1rem;
     position: absolute;
     left: 0;
     bottom: 3rem;

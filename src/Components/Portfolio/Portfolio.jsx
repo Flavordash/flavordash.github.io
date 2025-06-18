@@ -4,6 +4,7 @@ import IMG1 from '../../assets/frog.gif'
 import IMG2 from '../../assets/musit.gif'
 import IMG3 from '../../assets/naive.png'
 import IMG4 from '../../assets/vote.png'
+import IMG5 from '../../assets/Stock.jpg'
 
 const Portfolio = () => {
   return (
@@ -50,6 +51,16 @@ const Portfolio = () => {
          <div className="portfolio__item-cta">
          <a href="https://github.com/webwebweb3/voting" className='btn'>Github</a>
          <a href="https://www.notion.so/Voting-Page-e854a72829b0485191e0433d070f8802"className='btn btn-primary'>Notion</a>
+         </div>
+        </article>
+        <article className='portfolio__item'>
+         <div className='portfolio__item-image'>
+           <img src={IMG5} alt="" />
+         </div>
+         <h3>Stock Trading Voice Assistant with RSI Alerts</h3>
+         <div className="portfolio__item-cta">
+         
+         <a href="https://medium.com/@kwanhoon20/stock-trading-voice-assistant-with-rsi-alerts-c74dbc4137bd"className='btn btn-primary'>Medium</a>
          </div>
         </article>
       </div>
