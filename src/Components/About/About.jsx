@@ -25,11 +25,12 @@ const About = () => {
            <br />
            <small>English Teacher 2010-2017 </small>
            <br />
-           <small >Music Engineer 2017- </small>
+           <small >Music Engineer, Business 2017- </small>
            <br />
-           <small>Coding Training 2021-2022</small>
+           <small>Coding Training, Blockchain Training 2021-2022</small>
+    
            <br />
-           <small>Blockchain Coder 2022-</small>
+           <small>Magmabyte Live manager 2022-2023 </small>
 
           </article>
           <article className='about__card'>
@@ -37,20 +38,26 @@ const About = () => {
            <h5>Education</h5>
            <br />
            <small>Pukyung National University BA 2010-2017  </small>
+           <br />
+           <br />
+           <small>Saint Leo University CS Master 2023-2025  </small>
           </article>
           <article className='about__card'>
              <GoProject className='about__icon'/ >
            <h5>Projects</h5>
            <br />
-           <small>5+ Completed</small>
+           <small>7+ Completed</small>
           </article>
         </div>
        
         <p>
         I am the multi-talented Human who is 
-        Highly enthusiastic to the new technology like the blockchain and metaverse. The deeper i am getting into , 
-        The more i seek for. Especially When it comes to the computer programming, the nature of it just matches to my habit and hobby. right now 
-         i can make a website UI/UX easily and Smart-Contract by using ETH REMIX. and I am always ready for the new challenge    
+        interested in intelligent systems that operate in real-world environments.
+Through hands-on projects such as an object detection system using Raspberry Pi and a voice-based trading tool, I have explored how robotics and AI technologies can assist human decision-making in practical settings.
+Currently, I am preparing to pursue research at the intersection of robotics and artificial intelligence, with a focus on task planning and vision-based perception.
+My goal is to develop systems that balance academic depth with real-world applicability.
+
+
        </p>
        <a href="#contact" className='btn btn-primary'>Contact Me</a>
        </div>
